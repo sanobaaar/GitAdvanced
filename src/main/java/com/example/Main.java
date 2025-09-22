@@ -11,6 +11,7 @@ public class Main {
         int num = 2;
         boolean value = true;
         int a = 34;
+        String greeting = "hello";
 
         System.out.println("Hello world!");
         System.out.println("Hello world!");
