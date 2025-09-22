@@ -14,6 +14,9 @@ public class Main {
         String greeting = "hello";
 
         System.out.println("Hello world!");
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
 
 
         //method call
