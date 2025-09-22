@@ -11,11 +11,6 @@ public class Main {
         int b = 23;
         boolean value = true;
 
-        System.out.println("HELLO");
-        System.out.println("HELLO");
-
-        System.out.println("HELLO");
-
         //method call
         decrement(num);
         System.out.println("Outside function: " + num);
