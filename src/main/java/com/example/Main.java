@@ -11,10 +11,6 @@ public class Main {
         int num = 2;
         boolean value = true;
 
-        System.out.println("HELLO");
-        System.out.println("HELLO");
-
-        System.out.println("HELLO");
 
         //method call
         decrement(num);
