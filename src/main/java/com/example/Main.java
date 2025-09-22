@@ -34,6 +34,10 @@ public class Main {
         return a + b;
     }
 
+    public static int addition(int a, int b) {
+        return a + b;
+    }
+
     public static void decrement(int number) {
         number--;
         System.out.println("Inside function: " + number);
