@@ -10,6 +10,7 @@ public class Main {
       
         int num = 5;
         int x = 100;
+        int b = 23;
         //method call
         increment(num);
         System.out.println("Outside function: " + num);
