@@ -9,6 +9,7 @@ public class Main {
 
       
         int num = 2;
+        boolean value = true;
         //method call
         decrement(num);
         System.out.println("Outside function: " + num);
