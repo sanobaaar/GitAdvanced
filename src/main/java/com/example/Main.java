@@ -10,7 +10,7 @@ public class Main {
       
         int num = 5;
         //method call
-        increment(num);
+        decrement(num);
         System.out.println("Outside function: " + num);
 
         int[] myArray = { 1, 2, 3 };
@@ -25,8 +25,8 @@ public class Main {
         return a + b;
     }
 
-    public static void increment(int number) {
-        number++;
+    public static void decrement(int number) {
+        number--;
         System.out.println("Inside function: " + number);
     }
 
