@@ -8,7 +8,8 @@ public class Main {
         System.out.println(sum);
 
       
-        int num = 5;
+        int num = 23;
+        boolean value = true;
         //method call
         decrement(num);
         System.out.println("Outside function: " + num);
