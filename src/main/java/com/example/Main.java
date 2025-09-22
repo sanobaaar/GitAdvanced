@@ -10,9 +10,9 @@ public class Main {
         int x = 10;
         int b = 23;
         boolean value = true;
+        int a = 34;
+        String greeting = "hello";
 
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
         System.out.println("Hello world!");
         System.out.println("Hello world!");
 
