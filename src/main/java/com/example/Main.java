@@ -10,7 +10,13 @@ public class Main {
         int x = 10;
         int b = 23;
         boolean value = true;
-        // method call
+
+        System.out.println("HELLO");
+        System.out.println("HELLO");
+
+        System.out.println("HELLO");
+
+        //method call
         decrement(num);
         System.out.println("Outside function: " + num);
         System.out.println("Outside function: " + x);
