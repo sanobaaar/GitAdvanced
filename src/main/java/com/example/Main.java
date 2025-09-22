@@ -1,22 +1,20 @@
 package com.example;
 
-
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         int sum = add(12, 3);
         System.out.println(sum);
 
-      
         int num = 50;
         int x = 10;
         int b = 23;
-
-        
-        //method call
+        boolean value = true;
+        // method call
         decrement(num);
         System.out.println("Outside function: " + num);
         System.out.println("Outside function: " + x);
+        System.out.println("Outside function: " + value);
 
         int[] myArray = { 1, 2, 3 };
         updateArray(myArray);
