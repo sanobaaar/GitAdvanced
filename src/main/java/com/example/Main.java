@@ -9,9 +9,11 @@ public class Main {
 
       
         int num = 5;
+        int x = 100;
         //method call
         increment(num);
         System.out.println("Outside function: " + num);
+        System.out.println("Outside function: " + x);
 
         int[] myArray = { 1, 2, 3 };
         updateArray(myArray);
