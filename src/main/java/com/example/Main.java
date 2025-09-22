@@ -11,8 +11,9 @@ public class Main {
         int num = 5;
         int x = 100;
         int b = 23;
+        
         //method call
-        increment(num);
+        decrement(num);
         System.out.println("Outside function: " + num);
         System.out.println("Outside function: " + x);
 
@@ -28,8 +29,8 @@ public class Main {
         return a + b;
     }
 
-    public static void increment(int number) {
-        number++;
+    public static void decrement(int number) {
+        number--;
         System.out.println("Inside function: " + number);
     }
 
