@@ -8,9 +8,10 @@ public class Main {
         System.out.println(sum);
 
       
-        int num = 5;
-        int x = 100;
+        int num = 50;
+        int x = 10;
         int b = 23;
+
         
         //method call
         decrement(num);
